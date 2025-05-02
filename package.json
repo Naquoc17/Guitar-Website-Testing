@@ -9,7 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "preact": "^10.26.4"
+    "@vitejs/plugin-react": "^4.4.1",
+    "guitarla": "file:",
+    "preact": "^10.26.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.10.1",
